@@ -81,6 +81,8 @@ function spellWord(candidates, charsLeft) {
       }
     }
   }
+
+  return [];
 }
 
 function check(inputWord) {
